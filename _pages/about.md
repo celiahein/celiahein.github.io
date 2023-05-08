@@ -15,6 +15,8 @@ Insert photo and video here
 
 Here is a blurb about what I do
 
+![Bombus impatiens at Tommy Thompson Park](beepic1.jpg)
+
 Heading 1
 ======
 1. numbered list item 1
