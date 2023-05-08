@@ -11,9 +11,7 @@ redirect_from:
 
 I am a PhD Candidate at the [University of Toronto](https://eeb.utoronto.ca/) in Ecology and Evolutionary Biology with supervisor [Helene Wagner](https://sites.utm.utoronto.ca/wagnerlab/).
 
-Insert photo and video here
-
-Here is a blurb about what I do
+My research is focused on investigating the drivers of community assemblies. I'm interested in how habitat, enviornment, and species contribute in forming the ecological communities we see today. I'm developing and using various modelling techniques to make the most of community data.
 
 <img src="./images/beepic1.jpg" alt="Bombus impatiens at Tommy Thompson Park" style="width: 3200;" />
 Bombus impatiens at Tommy Thompson Park, Toronto
