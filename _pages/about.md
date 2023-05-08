@@ -15,7 +15,9 @@ Insert photo and video here
 
 Here is a blurb about what I do
 
-![Bombus impatiens at Tommy Thompson Park](beepic1.jpg)
+<img src="beepic1.jpg"
+     alt="Bombus impatiens at Tommy Thompson Park"
+     style="float: left; margin-right: 10px;" />
 
 Heading 1
 ======
