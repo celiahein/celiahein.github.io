@@ -13,7 +13,7 @@ name                     : &name "Celia Hein"
 description              : &description "PhD Candidate; University of Toronto \n Ecology & Evolutionary Biology"
 url                      : https://celiahein.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "celiahein/.github.io"
+repository               : "celiahein.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Celia Hein"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Candidate using spatial statistics and machine learning in community and landscape ecology"
   location         : "Toronto, Ontario"
   employer         : "University of Toronto"
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/celia-hein-851311b1/"
   orcid            : #"http://orcid.org/yourorcidurl"
