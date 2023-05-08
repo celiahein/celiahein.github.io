@@ -15,7 +15,7 @@ Insert photo and video here
 
 Here is a blurb about what I do
 
-| <img src="./images/beepic1.jpg" alt="Bombus impatiens at Tommy Thompson Park" style="width: 400px;" /> |
+| <img src="./images/beepic1.jpg" alt="Bombus impatiens at Tommy Thompson Park" style="width: 3200; border-collapse: collapse; border: none;" /> |
 | Bombus impatiens at Tommy Thompson Park |
 
 Heading 1
