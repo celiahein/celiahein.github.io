@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD Candidate at the [University of Toronto](https://eeb.utoronto.ca/) in Ecology and Evolutionary Biology with supervisor [Helene Wagner](https://sites.utm.utoronto.ca/wagnerlab/).
 
-My thesis research is focused on investigating the drivers of community assemblies. I'm interested in how habitat, environment, and species contribute to forming the ecological communities we see today. This goal of separating pattern from process to generalize how communities form is essential for predicting what these communities may look like in different future scenarios (e.g. climate change and human development). I'm currently investigating drivers of the wild bee community across the entire agricultural zone of Alberta, Canada. 
+My thesis research is focused on the role of spatial scale in species modelling. Scale is the lens we look through when linking pattern to process in landscape ecology, and understanding  how the scale of observation affects ecological measurements and models is essential to creating species distribution models that are interpretable and useful in explaining and predicting species distributions. I am currently modelling scale-dependency and "categorizing" the scale-trend types for species-landcover associations using an empircial dataset of bee species sampled in the agricultural region of Alberta, Canada. 
 
 <img src="./images/beepic1.jpg" alt="Bombus impatiens at Tommy Thompson Park" style="width: 3200;" />
 Bombus impatiens at Tommy Thompson Park, Toronto
