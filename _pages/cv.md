@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume & CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,10 +15,4 @@ Resume
 
 CV (coming soon)
 ======
-
-
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
