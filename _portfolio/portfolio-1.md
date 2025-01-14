@@ -1,6 +1,6 @@
 ---
 title: "Making Maps with tmap in R"
-excerpt: "Quick and Beginner-Friendly Exercise<br/><img src='/images/500x300.png'>"
+excerpt: "Quick and Beginner-Friendly Exercise<br/><img src='/images/Map_Landcover_Comparison_Buffers.pdf'>"
 collection: portfolio
 ---
 
