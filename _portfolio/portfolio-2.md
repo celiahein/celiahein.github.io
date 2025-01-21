@@ -8,4 +8,4 @@ This is an quick and beginner-friendly exercise to introduce you to working with
 
 If you want to work through this project on your own, you can check it out on my [Github](https://github.com/celiahein/Reclassifying_raster_maps_in_R) or read through it [here](./files/ReclassifyRaster_GP.html).
 
-<img src='./images/map_pic_reclassifying.png' width='400' height='350'>
+<img src='/images/map_pic_reclassifying.png' alt='ReclassMapImageSmaller' width='400' height='350'>
