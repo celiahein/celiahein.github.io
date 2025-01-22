@@ -1,6 +1,6 @@
 ---
 title: "Reclassifying Landcover Maps in R"
-excerpt: "A straightforward example to reclassifying and viewing landcover maps in R using packages terra and tmap <br/><img src='/images/map_pic_reclassifying.png' alt='ReclassMapImageSmaller' width='400' height='300'>"
+excerpt: "A straightforward example to reclassifying and viewing landcover maps in R using packages terra and tmap <br/><img src='/images/map_pic_reclassifying.png' alt='ReclassMapImageSmaller' width='400' height='275'>"
 collection: portfolio
 ---
 
