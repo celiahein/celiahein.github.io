@@ -4,7 +4,7 @@ excerpt: "A straightforward example to reclassifying and viewing landcover maps 
 collection: portfolio
 ---
 
-This is an quick and beginner-friendly exercise to introduce you to working with tmap and well as spatial point data and raster maps in R and R Studio. In this exercise we create comparative maps below.
+This is an example showing how to reclassify and visualize crop inventory maps downloaded from Agriculture and Agrifood Canada using terra and tmap in R. 
 
 If you want to work through this project on your own, you can check it out on my [Github](https://github.com/celiahein/Reclassifying_raster_maps_in_R) or read through it [here](./files/ReclassifyRaster_GP.html).
 
