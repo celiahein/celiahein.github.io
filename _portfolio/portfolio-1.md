@@ -1,11 +1,9 @@
 ---
-title: "Extracting data from multiple spatial scales: Coming Soon!"
-excerpt: "Using the landscapemetrics package<br/><img src='/images/500x300.png' alt='MapImageSmaller' width='500' height='300'>"
+title: "Extracting data from multiple spatiotemporal scales"
+excerpt: "Efficiently extract data and calculate variables from multiple spatiotemporal scales<br/>"
 collection: portfolio
 ---
 
-Coming soon! 
+This is a short but thorough tutorial for extracting and calculating landscape variables across multiple spatiotemporal scales using the `landscapemetrics` package in R.
 
-If you want to work through this project on your own, you can check it out on my Github or read through it here.
-
-<img src='/images/500x300.png' alt='MapImageSmaller' width='500' height='300'>
+If you want to work through this project on your own, you can check it out on my [Github](https://github.com/celiahein/Extracting_data_multiple_spatiotemporal_scales) or read through it [here](/files/Extracting_data_multiple_scales.html).
