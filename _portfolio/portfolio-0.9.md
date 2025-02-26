@@ -9,4 +9,8 @@ In this project, I am using landscape connectivity modelling (more specifically,
 We use habitat quality and permeability (quantified with methods by Marrec et al. 2020) to map and quantify the amount of functionally connected habitat and to identify corridors important for maintaining landscape connectivity through the area (using ConScape; Van Moorter et al. 2023). This project is in progress so stay tuned for the code and results, which will be publically available at project completion!
 
 <img src='/images/maps_QandR_25m.png' alt='QandRMapImageSmaller' width='600' height='600'>
-<img src='/images/Habitat_Functionality_theta0.1.png' alt='Habitat Functionality Map' width='380' height='380'>
+
+<div style="display: flex; gap: 10px;">
+  <img src='/images/Habitat_Functionality_theta0.1.png' alt='Habitat Functionality Map' width='380' height='380'>
+  <img src='/images/movement_flow_theta0.1_alpha0.02.png' alt='Movement Flow Map' width='380' height='380'>
+</div>
