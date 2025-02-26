@@ -1,6 +1,6 @@
 ---
 title: "Current Project: Identifying corridors and high value areas for conservation in the Kainai Reserve"
-excerpt: "More Coming Soon!<br/><img src='/images/Habitat_Functionality_theta0.1.png'>"
+excerpt: "More Coming Soon! <br/><img src='/images/Habitat_Functionality_theta0.1.png'>"
 collection: portfolio
 ---
 
