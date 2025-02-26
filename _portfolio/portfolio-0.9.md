@@ -1,6 +1,6 @@
 ---
 title: "Current Project: Identifying corridors and high value areas for conservation in the Kainai Reserve"
-excerpt: "More Coming Soon!<br/><img src='/images/Habitat_Functionality_theta0.1.png'"
+excerpt: "More Coming Soon!<br/><img src='/images/Habitat_Functionality_theta0.1.png'>"
 collection: portfolio
 ---
 
@@ -8,5 +8,5 @@ In this project, I am using landscape connectivity modelling (more specifically,
 
 We use habitat quality and permeability (quantified with methods by Marrec et al. 2020) to map and quantify the amount of functionally connected habitat and to identify corridors important for maintaining landscape connectivity through the area (using ConScape; Van Moorter et al. 2023). This project is in progress so stay tuned for the code and results, which will be publically available at project completion!
 
-<img src='/images/maps_QandR_25m.png' alt='QandRMapImageSmaller' width='400' height='400'>
+<img src='/images/maps_QandR_25m.png' alt='QandRMapImageSmaller' width='600' height='600'>
 <img src='/images/Habitat_Functionality_theta0.1.png'>
