@@ -1,5 +1,5 @@
 ---
-title: "Current Project: Identifying corridors and high value areas for conservation in the Kainai Reserve"
+title: "Current Postdoc Research: Identifying corridors and high value areas for conservation in the Kainai Reserve"
 excerpt: "More Coming Soon! <br/><img src='/images/Habitat_Functionality_theta0.1.png' alt='Habitat Functionality Map' width='280' height='280'>"
 collection: portfolio
 ---
